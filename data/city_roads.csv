@@ -1,0 +1,14 @@
+from,to,distance_km
+Central Station,City Hospital,4
+Central Station,City Mall,2
+City Hospital,City Mall,1
+City Hospital,River Bridge,5
+City Hospital,University,3
+City Mall,River Bridge,3
+City Mall,Tech Park,6
+River Bridge,University,2
+River Bridge,Tech Park,2
+River Bridge,Airport Road,7
+University,Tech Park,3
+University,Airport Road,2
+Tech Park,Airport Road,4
